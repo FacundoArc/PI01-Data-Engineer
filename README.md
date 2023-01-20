@@ -55,5 +55,10 @@ En la carpeta Datasets se encuentra el archivo etl.py donde se esta todo el proc
 <l>- Deta</l><br>
 </ol>
 
+LINK DE API
+https://gepgq1.deta.dev/
+
+LINK DE VIDEO EXPLICATIVO DE YOUTUBE
+https://youtu.be/ILBmyxtW9Yw
 
 
